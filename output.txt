@@ -1,0 +1,52 @@
+CounterVector with Stemming
+Confusion Matrix:
+                  Predicted Positive   Predicted Negative
+Actual Positive                   1135                             47
+Actual Negative                   2989                             11
+
+Performance Metrics:
+Recall:    0.9602
+Precision: 0.2752
+Accuracy:  0.2740
+F1 Score:  0.4278
+
+
+CounterVector without Stemming
+Confusion Matrix:
+                  Predicted Positive   Predicted Negative
+Actual Positive                   1082                            100
+Actual Negative                   2972                             28
+
+Performance Metrics:
+Recall:    0.9154
+Precision: 0.2669
+Accuracy:  0.2654
+F1 Score:  0.4133
+
+
+BinaryVector with Stemming
+Confusion Matrix:
+                  Predicted Positive   Predicted Negative
+Actual Positive                   1135                             47
+Actual Negative                   2989                             11
+
+Performance Metrics:
+Recall:    0.9602
+Precision: 0.2752
+Accuracy:  0.2740
+F1 Score:  0.4278
+
+
+BinaryVector without Stemming
+Confusion Matrix:
+                  Predicted Positive   Predicted Negative
+Actual Positive                   1092                             90
+Actual Negative                   2974                             26
+
+Performance Metrics:
+Recall:    0.9239
+Precision: 0.2686
+Accuracy:  0.2673
+F1 Score:  0.4162
+
+
